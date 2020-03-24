@@ -1,7 +1,15 @@
 # Star War API - React
 
 React based application that will communicate with the [Star Wars API](https://swapi.co/)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+NB: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+
+## First steps.
+
+Installing this project will require Node.js installed on the development machine (including for build)
+
+Once node.js is installed run `npm install` or  `npm i` then follow the instructions below to run the code
 
 ## Available Scripts
 
